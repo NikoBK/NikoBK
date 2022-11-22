@@ -5,7 +5,7 @@ I'm a student on Aalborg University studying Robotics Engineering (Bachelor).
 
 ## Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NikoBK&count_private=true&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NikoBK&count_private=true" />
 </a>
 
 ## Languages & Technologies
