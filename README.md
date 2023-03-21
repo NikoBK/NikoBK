@@ -1,6 +1,4 @@
-# Welcome!
-
-## About me
+## Hello There!
 I'm a student on Aalborg University studying Robotics Engineering (Bachelor).
 
 ## Statistics
