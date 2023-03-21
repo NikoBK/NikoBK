@@ -4,8 +4,17 @@
 I'm a student on Aalborg University studying Robotics Engineering (Bachelor).
 
 ## Statistics
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NikoBK&count_private=true" />
+<a href="https://github.com/NikoBK#gh-light-mode-only">
+  <div align="center">
+    <img align="top" width="400px" src="https://github-readme-stats.vercel.app/api?username=NikoBK&&layout=compact&count_private=true&show_icons=true&hide_border=true&disable_animations=true&include_all_commits=true&title_color=24292F&text_color=24292F"/>
+    <img align="top" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoBK&layout=compact&hide_border=true&card_width=200&title_color=24292F&text_color=24292F"/>
+  </div>
+</a>
+<a href="https://github.com/NikoBK#gh-dark-mode-only">
+  <div align="center">
+    <img align="top" width="400px" src="https://github-readme-stats.vercel.app/api?username=NikoBK&&layout=compact&count_private=true&show_icons=true&hide_border=true&disable_animations=true&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF"/>
+    <img align="top" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoBK&layout=compact&hide_border=true&card_width=200&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF"/>
+  </div>
 </a>
 
 ## Languages & Technologies
@@ -24,7 +33,3 @@ I'm a student on Aalborg University studying Robotics Engineering (Bachelor).
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoBK&layout=compact&theme?vision-friendl-dark" />
-</a>
