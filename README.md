@@ -1,5 +1,5 @@
 ## Hello There!
-I'm a student on Aalborg University studying Robotics Engineering (Bachelor).
+I'm a student on Aalborg Universitet (AAU) studying a Robotics Engineering bachelor.
 
 ## Statistics
 <a href="https://github.com/NikoBK#gh-light-mode-only">
