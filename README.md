@@ -2,18 +2,8 @@
 I'm a student on Aalborg Universitet (AAU) studying a Robotics Engineering bachelor.
 
 ## Statistics
-<a href="https://github.com/NikoBK#gh-light-mode-only">
-  <div align="center">
-    <img align="top" width="400px" src="https://github-readme-stats.vercel.app/api?username=NikoBK&&layout=compact&count_private=true&show_icons=true&hide_border=true&disable_animations=true&include_all_commits=true&title_color=24292F&text_color=24292F"/>
-    <img align="top" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoBK&layout=compact&hide_border=true&card_width=200&title_color=24292F&text_color=24292F"/>
-  </div>
-</a>
-<a href="https://github.com/NikoBK#gh-dark-mode-only">
-  <div align="center">
-    <img align="top" width="400px" src="https://github-readme-stats.vercel.app/api?username=NikoBK&&layout=compact&count_private=true&show_icons=true&hide_border=true&disable_animations=true&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF"/>
-    <img align="top" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoBK&layout=compact&hide_border=true&card_width=200&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF"/>
-  </div>
-</a>
+[![Nikolaj Bjørnager Krebs' github stats](https://github-readme-stats.vercel.app/api?username=nikobk&count_private=true&show_icons=true&theme=github_dark)](https://danielalexlarsen.github.io/)
+<img align="top" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoBK&layout=compact&hide_border=true&card_width=200&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF"/>
 
 ## My Experience
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code>
