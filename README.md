@@ -1,5 +1,5 @@
 ## About Me
-Robot technology B.Sc student @ Aalborg University (AAU) about to embark on a M.Sc in healthcare technology also @ AAU.\
+Robotics & Biomedical Enginering student @ Aalborg University (AAU) \
 _Please feel free to check out some of my pinned repositories below that are projects I have worked on and hope to inspire others with.\
 (pinned repositories may update over time)_
 
